@@ -1,0 +1,27 @@
+
+ h2{
+	color: black;
+	font-family:Courier New	;
+	font-size: 40px;
+}
+p {
+  color: black;
+  line-height: 1.3em;
+  text-align: Center;
+  width: 100%;
+  font-family: Courier New ;
+  font-size: 18px;
+  font-weight: bold;
+}
+body {
+  text-align: center;
+}
+
+.indexbody {
+background: url("images/orange.html");
+background-size: cover;
+}
+	html {
+  font-size: 16px;
+  font-family: "Arial", sans-serif;
+}
